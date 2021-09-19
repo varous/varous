@@ -1,8 +1,7 @@
 -  Hi, I’m Sourav. 
--  I’m interested in developing my repertoire of algorithms, and would like to help others in their learning process by sharing them. Please check out the sorting 101 repo.
--  I’m currently pursuing BSc Computer Science at Goldsmiths, University of London. Please check out the game I made for my first semester project. Its called Hat Adventure. 
--  I’m looking to collaborate on open source projects dealing with algorithms and web development. Currently I work with Java and Javascript. Brushing up on my Python.
--  Reach me at muonmonk@pm.me
+-  learning Artifical Intelligence and Machine Learning, Dynamic Programming, and a bunch of other courses at university.
+-  currently pursuing BSc Computer Science at Goldsmiths, University of London.
+-  looking to collaborate on open source projects in machine learning.
 
 <!---
 varous/varous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
